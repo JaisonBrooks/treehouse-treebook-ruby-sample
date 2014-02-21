@@ -1,3 +1,5 @@
 == TREEBOOK-RUBY-SAMPLE
 
-This is a sample project from Treehouse's Rails development course. Check them out at >> http://teamtreehouse.com
+This is a sample project from the Team Treehouse Rails development course. 
+
+Check them out at >> http://teamtreehouse.com
