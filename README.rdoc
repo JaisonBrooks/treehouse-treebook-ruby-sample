@@ -1,4 +1,4 @@
-== TREEBOOK-RUBY-SAMPLE
+== Treebook Sample
 
 This is a sample project from the Team Treehouse Rails development course. 
 
